@@ -1,4 +1,4 @@
-langflow == 1.0.7
+langflow == 1.0.17
 streamlit
 pandas
 json
